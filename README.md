@@ -7,3 +7,5 @@
 
 <img width="1283" alt="image" src="https://github.com/snadering/JSON-Web-Token-Demo/assets/113049401/d88456d1-2b7b-49cf-9e1a-c5b99530e7b6">
 
+<img width="1193" alt="image" src="https://github.com/snadering/JSON-Web-Token-Demo/assets/113049401/2816f172-6808-48e3-970e-7bbd74b29222">
+
